@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338156675591",
+    "project_id": "ourchat53",
+    "storage_bucket": "ourchat53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338156675591:android:860114afd08935cfbb40a2",
+        "android_client_info": {
+          "package_name": "com.mahoor.ourchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KLi3xeYO301aZTnwVudckJwkg70XvWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
